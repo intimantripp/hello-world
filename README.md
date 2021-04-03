@@ -11,3 +11,5 @@ This is a good world. It is, perhaps, a perfect world. More perfect than the one
 Let us achieve it, one person at a time.
 
 Here goes.
+
+Well, we went. Things turned out differently from how I would have expected. But that, I suppose, is actually something to be expected. Here goes again.
